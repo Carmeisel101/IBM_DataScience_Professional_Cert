@@ -24,3 +24,11 @@ This course is a collection of tools and techniques for data science provided by
    This course is a collection of data science methodology provided by IBM. All relevant materials are located in:
    
          IBM_DataScience_Professional_Cert/DataScienceMethodology/
+
+## Python for Data Science, AI & Development
+#
+* __Course 4__ : [Python for Data Science, AI & Development](https://coursera.org/share/cf432eb4514df81567a668806d5c9dc4)
+
+   This course is a collection of data science, AI development work provided by IBM. All relevant materials are located in:
+   
+         IBM_DataScience_Professional_Cert/PythonforDataScienceAIDev/
