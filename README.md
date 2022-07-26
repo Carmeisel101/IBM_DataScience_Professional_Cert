@@ -32,3 +32,19 @@ This course is a collection of tools and techniques for data science provided by
    This course is a collection of data science, AI development work provided by IBM. All relevant materials are located in:
    
          IBM_DataScience_Professional_Cert/PythonforDataScienceAIDev/
+
+## Python Project For Data Science
+#
+* __Course 5__ : [Python Projects for Data Science](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science)
+
+   This course is a collection of work from the course with examples provided by IBM. This directory also contains my PeerReviewed Project. All relevant materials are located in:
+   
+         IBM_DataScience_Professional_Cert/PythonProjectForDataScience/
+
+## Databases and SQL for Data Science with Python
+#
+* __Course 6__ : [Databases and SQL for Data Science with Python](https://coursera.org/share/911dfd11d8aa945c854d4426cc35cb37)
+
+   This course is a collection of data science, AI development work provided by IBM. All relevant materials are located in:
+   
+         IBM_DataScience_Professional_Cert/DBandSQLforDataScience/
