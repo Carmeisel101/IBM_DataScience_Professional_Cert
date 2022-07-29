@@ -45,6 +45,14 @@ This course is a collection of tools and techniques for data science provided by
 #
 * __Course 6__ : [Databases and SQL for Data Science with Python](https://coursera.org/share/911dfd11d8aa945c854d4426cc35cb37)
 
-   This course is a collection of data science, AI development work provided by IBM. All relevant materials are located in:
+   This course is a collection relevant SQL and database exercises provided by IBM. All relevant materials are located in:
    
          IBM_DataScience_Professional_Cert/DBandSQLforDataScience/
+
+## Data Analysis with Python
+#
+* __Course 7__ : [Data Analysis with Python](https://coursera.org/share/fcfcc2b24bdc08e43117de448729bc25)
+
+   This course is a collection of model development and analysis exercises provided by IBM. All relevant materials are located in:
+   
+         IBM_DataScience_Professional_Cert/DataAnalysiswithPython/
